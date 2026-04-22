@@ -1,8 +1,8 @@
-/* signed: eros938 */
+/* signed: eros98 */
 /*
     File: main.css
     Purpose: main stylesheet for the portfolio
-    Signed by: eros938
+    Signed by: eros98
 */
 * {
     margin: 0;
@@ -26,7 +26,7 @@
     transition: opacity 0.5s ease-out;
 }
 
-/* End of file - signed: eros938 */
+/* End of file - signed: eros98 */
 
 .boot-screen.fade-out {
     opacity: 0;

@@ -1,8 +1,8 @@
-/* signed: eros938 */
+/* signed: eros98 */
 /*
     File: animations.css
     Purpose: animation keyframes used across the site
-    Signed by: eros938
+    Signed by: eros98
 */
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(20px); }
@@ -35,4 +35,4 @@
     50% { opacity: 0.7; }
 }
 
-/* End of file - signed: eros938 */
+/* End of file - signed: eros98 */

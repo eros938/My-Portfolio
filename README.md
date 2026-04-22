@@ -1,10 +1,10 @@
 # Cyber Portfolio - Personal Edition
 
-Personal portfolio website for Khizar Ali Shah (eros938), adapted from the original cyber portfolio template.
+Personal portfolio website for Khizar Ali Shah (eros98), adapted from the original cyber portfolio template.
 
 ## Live Repository
 
-GitHub: https://github.com/eros938/My-Portfolio
+GitHub: https://github.com/eros98/My-Portfolio
 
 ## Features
 
@@ -23,7 +23,7 @@ GitHub: https://github.com/eros938/My-Portfolio
 ## Quick Start
 
 ```bash
-git clone https://github.com/eros938/My-Portfolio.git
+git clone https://github.com/eros98/My-Portfolio.git
 cd My-Portfolio
 start index.html
 ```
@@ -55,6 +55,6 @@ This project uses the MIT License. See LICENSE.
 
 ## Author
 
-Khizar Ali Shah (eros938)
-- GitHub: https://github.com/eros938
+Khizar Ali Shah (eros98)
+- GitHub: https://github.com/eros98
 - Email: khizaralishah938@gmail.com

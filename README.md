@@ -1,174 +1,60 @@
-<div align="center">
+# Cyber Portfolio - Personal Edition
 
-# 🚀 Cyber Portfolio
+Personal portfolio website for Khizar Ali Shah (eros938), adapted from the original cyber portfolio template.
 
-### Modern Developer Portfolio with Terminal-Inspired Design
+## Live Repository
 
-<a href="https://serozr.me/cyber-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Click_to_Check_Live-00CC00?style=for-the-badge&logoColor=black" alt="Live Demo" height="35">
-</a>
+GitHub: https://github.com/eros938/My-Portfolio
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/serozr/cyber-portfolio?style=social)](https://github.com/serozr/cyber-portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/serozr/cyber-portfolio?style=social)](https://github.com/serozr/cyber-portfolio/network/members)
+## Features
 
-<img alt="Portfolio Preview" src="src\assets\images\mockup.png" width="800px" />
+- Terminal-style boot intro
+- Cyber-themed responsive layout
+- Animated section reveals
+- Skills progress indicators
+- Dedicated sections for projects, blog, and contact
 
-</div>
+## Tech Stack
 
----
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
-
-## ✨ Features
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Design & UI
-- Terminal boot screen animation
-- Cyberpunk aesthetic (`#00FF8C`, `#00D9FF`)
-- Glassmorphism effects
-- Scroll-triggered animations
-- Fully responsive design
-
-</td>
-<td width="50%">
-
-### 🛠️ Technical Stack
-- Pure Vanilla JavaScript
-- CSS Grid & Flexbox
-- Custom CSS animations
-- Intersection Observer API
-- Zero dependencies
-
-</td>
-</tr>
-</table>
-
-### 📋 Complete Sections
-**Hero** • **About** • **Skills** • **Experience** • **Education** • **Certifications** • **Projects** • **Blog** • **Contact**
-
----
-
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
-# Clone repository
-git clone https://github.com/serozr/cyber-portfolio.git
-cd cyber-portfolio
-
-# Option 1: Open directly
+git clone https://github.com/eros938/My-Portfolio.git
+cd My-Portfolio
 start index.html
+```
 
-# Option 2: Use local server (recommended)
+For local serving:
+
+```bash
 python -m http.server 8000
-# Then visit: http://localhost:8000
 ```
 
-> **Requirements:** Modern web browser (Chrome, Firefox, Safari, Edge)
+Then open http://localhost:8000.
 
----
+## Main Files
 
-## 📁 Project Structure
+- index.html: page structure and portfolio content
+- src/css/main.css: core styling
+- src/css/animations.css: animation keyframes and effects
+- src/js/main.js: boot screen and interaction logic
 
-```
-cyber-portfolio/
-│
-├── index.html            # Main HTML entry point
-├── LICENSE               # MIT License
-├── README.md             # Project documentation
-│
-└── src/                  # Source files
-  ├── assets/           # Static assets
-  │   └── images/       # Image files
-  │
-  ├── css/              # Stylesheets
-  │   ├── animations.css # Custom animation keyframes
-  │   └── main.css       # Main stylesheet
-  │
-  └── js/               # JavaScript files
-    └── main.js        # Interactions and animations
-```
+## Personalization Notes
 
----
+- Update project links in the Projects section inside index.html.
+- Add your LinkedIn and X links in the Contact section.
+- Replace placeholder blog links with real post URLs when ready.
 
-## 🎨 Customization
+## License
 
-### 🎨 Colors
-Edit `src/css/main.css`:
-```css
-#00FF8C  /* Primary - Neon Green */
-#00D9FF  /* Secondary - Cyan */
-#121212  /* Background */
-```
+This project uses the MIT License. See LICENSE.
 
-### ✏️ Content
-| File | What to Change |
-|------|---------------|
-| `index.html` | Personal info, projects, skills |
-| `src/css/main.css` | Styles, colors, layouts |
-| `src/js/main.js` | Animations, interactions |
+## Author
 
----
-
-## 🌐 Compatibility
-
-**Browsers:** Chrome, Firefox, Safari, Edge (Latest versions) • **Mobile:** Responsive design (< 768px)
-
----
-
-## ⚡ Performance
-
-✅ Intersection Observer lazy loading • ✅ CSS-based animations • ✅ Zero dependencies • ✅ Optimized assets
-
-**Lighthouse:** Performance 95+ • Accessibility 90+ • Best Practices 95+ • SEO 95+
-
----
-
-## 🛠️ Built With
-
-**HTML5** • **CSS3** (Grid, Flexbox, Custom Properties, Keyframes) • **Vanilla JavaScript** (Intersection Observer, DOM APIs)
-
----
-
-## 📝 Future Enhancements
-
-- [ ] Dark/light theme toggle
-- [ ] Form backend integration
-- [ ] Blog CMS integration
-- [ ] Project detail pages
-- [ ] PWA support
-- [ ] Multilingual support
-- [ ] Admin panel
-- [ ] Analytics tracking
-
----
-
-## 🤝 Contributing
-
-Contributions welcome! Fork → Branch → Commit → Push → Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**serozr** • [GitHub](https://github.com/serozr) • [Twitter](https://twitter.com/serodxr) • [Portfolio](https://www.serozr.me/)
-
-## 💬 Support
-
-Give it a ⭐️ if you like this project! For issues or questions, open an issue on GitHub.
-
----
-
-<div align="center">
-
-**Made with ❤️ by [serozr](https://github.com/serozr)**
-
-</div>
+Khizar Ali Shah (eros938)
+- GitHub: https://github.com/eros938
+- Email: khizaralishah938@gmail.com

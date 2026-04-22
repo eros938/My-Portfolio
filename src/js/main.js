@@ -1,8 +1,8 @@
-// signed: serozr
+// signed: eros938
 /*
     File: main.js
     Purpose: handles boot screen, observers and UI interactions
-    Signed by: serozr
+    Signed by: eros938
 */
 // Boot Screen Animation
 document.addEventListener('DOMContentLoaded', () => {
@@ -122,4 +122,4 @@ window.addEventListener('scroll', () => {
     }, 150);
 }, { passive: true });
 
-// End of file - signed: serozr
+// End of file - signed: eros938
